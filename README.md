@@ -1,5 +1,5 @@
 # AGV Automated Parking Facility Simulation
-Operation Simulation of an AGV automated parking facility and optimization of parking space allocation
+Operation Simulation of an AGV automated parking facility and optimization of parking space allocation. A cost-based zoned parking strategy was used.
 
 <h2>AGV Automated Parking</h2>
 <img src="./agv automated parking.png" width="300" />
